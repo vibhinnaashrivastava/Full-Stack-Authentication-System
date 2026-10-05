@@ -1,4 +1,4 @@
-🔐 Full Stack Authentication System
+**🔐 Full Stack Authentication System**
 
 A Full Stack Authentication System is a secure web application that provides complete user authentication and authorization functionality. The application allows users to register, log in, log out, manage their profiles, and access protected resources based on their authentication status and assigned roles.
 The project demonstrates how a modern full-stack application handles user authentication, password security, JWT-based authorization, protected routes, role-based access control, and frontend-backend communication.
